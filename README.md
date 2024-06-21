@@ -74,4 +74,5 @@ This project is a Python application that captures images of receipts using a we
 ### Environment Variables
 
 Load environment variables from the `.env` file:
+ 
 
