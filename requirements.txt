@@ -1,0 +1,7 @@
+opencv-python~=4.10.0.84
+requests~=2.32.2
+spacy~=3.7.2
+halo~=0.0.31
+reportlab~=3.6.13
+loguru~=0.5.3
+python-dotenv~=1.0.1
