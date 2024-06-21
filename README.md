@@ -74,5 +74,20 @@ This project is a Python application that captures images of receipts using a we
 ### Environment Variables
 
 Load environment variables from the `.env` file:
+
+```python
+from dotenv import load_dotenv
+
+load_dotenv()
+```
+
+```python
+
+USE_CAMERA=False
+OPENAI_API_KEY=your_openai_api_key
+
+```
+
+
  
 
