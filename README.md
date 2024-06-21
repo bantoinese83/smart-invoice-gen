@@ -62,7 +62,7 @@ This project is a Python application that captures images of receipts using a we
 2. Run the application:
 
     ```sh
-    python main.py
+    python app.py
     ```
 
 3. Follow the on-screen instructions to capture a receipt image using your webcam or use a test image provided in the `images` directory.
